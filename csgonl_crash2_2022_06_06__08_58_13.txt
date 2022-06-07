@@ -1,0 +1,15 @@
+Code = c0000005 Address = 00000000 (+c2f00000)
+Attempt to write data at address 0
+LH = 4478 | 3478 | 1935
+edi=3da7b410
+esi=4ed001c0
+ebx=4ed00d00
+edx=afc2420
+ecx=140754b8
+eax=0
+ebp=10ecea0
+failed...
+
+ret addr:
+3D9FB4CF (+8fb4cf)
+83 c4 04 8b 4d e8 64 89 0d 00 00 00 00 83 c4 1c 5e 5f 5b 5d 
